@@ -1,0 +1,8 @@
+name = "formton"
+main = "src/index.js"
+compatibility_date = "2022-06-26"
+
+
+[vars]
+NOTION_DB_ID = "<Your Database ID Here>"
+NOTION_API_KEY = "<Your Secret Here>"
